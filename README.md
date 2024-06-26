@@ -1,0 +1,1 @@
+The project makes use of doubly linked list in JAVA to create a functional Phone Book Directory , each node of the linked list represents a contact and pointer to the next and previous contact. It also makes use of JAVA swing for the Graphical user Interface.
